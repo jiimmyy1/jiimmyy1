@@ -10,7 +10,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-b5b51f?style=flat&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-787cb4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-004d61?style=flat&logo=mysql&logoColor=white)
-![LUA](https://img.shields.io/badge/-Lua-blue?style=flat&logo=lua)
 
 <p>
 
