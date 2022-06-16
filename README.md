@@ -4,7 +4,9 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-CD6799?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=FFF)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js&logoColor=FFF)
 ![Chakra](https://img.shields.io/badge/Chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=FFF)
