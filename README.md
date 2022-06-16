@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=jiimmyy1)
-
 # <img src="https://www.nicepng.com/png/full/204-2047580_books-emoji-png-clip-free-library-emojis-de.png" width="25px"> Bienvenido a mi perfil <img src="https://www.nicepng.com/png/full/204-2047580_books-emoji-png-clip-free-library-emojis-de.png" width="25px">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
