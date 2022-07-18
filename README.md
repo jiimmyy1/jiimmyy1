@@ -13,7 +13,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-004d61?style=flat&logo=mysql&logoColor=white)
 
 <p>
-  
   ![stats](https://github-readme-stats.vercel.app/api?username=jiimmyy1&count_private=true)
-  
 </p>
