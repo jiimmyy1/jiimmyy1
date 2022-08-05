@@ -1,4 +1,4 @@
-# Welcome! I'm jimmy <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+# Welcome! I'm jimmy <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
@@ -14,6 +14,6 @@
 
 <p>
   
-  ![stat](https://github-readme-stats.vercel.app/api?username=jiimmyy1&count_private=true)
+  ![stat](https://github-readme-stats.vercel.app/api?username=jiimmyy1&count_private=true&theme=codeSTACKr&border_radius=5&hide_border=true&show_icons=true&icon_color=fe652f&cache_seconds=7201)
   
 </p>
