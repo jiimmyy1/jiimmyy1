@@ -12,10 +12,4 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-b5b51f?style=flat&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-004d61?style=flat&logo=mysql&logoColor=white)
 
-<p>
-  
-  ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jiimmyy1&layout=compact&count_private=true&theme=codeSTACKr&border_radius=5&hide_border=true&show_icons=true&icon_color=FF652F&cache_seconds=7201)
-  
-  
-  
-</p>
+![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jiimmyy1&layout=compact&count_private=true&theme=codeSTACKr&border_radius=5&hide_border=true&show_icons=true&icon_color=FF652F&cache_seconds=7201)
