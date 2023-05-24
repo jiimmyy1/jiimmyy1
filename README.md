@@ -14,6 +14,8 @@
 
 <p>
   
-  ![stat](https://github-readme-stats.vercel.app/api?username=jiimmyy1&count_private=true&theme=codeSTACKr&border_radius=5&hide_border=true&show_icons=true&icon_color=FF652F&cache_seconds=7201)
+  ![stat](https://github-readme-stats.vercel.app/api/top-langs/?username=jiimmyy1)&count_private=true&theme=codeSTACKr&border_radius=5&hide_border=true&show_icons=true&icon_color=FF652F&cache_seconds=7201)
+  
+  
   
 </p>
