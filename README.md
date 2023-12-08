@@ -3,7 +3,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=flat&logo=react&logoColor=FFF)
+![React](https://img.shields.io/badge/-React-57C9E7?style=flat&logo=react&logoColor=FFF)
 ![Astro](https://img.shields.io/badge/-Astro-000?style=flat&logo=astro&logoColor=FFF)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js&logoColor=FFF)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38bdf8.svg?style=flat&logo=tailwindcss&logoColor=FFF)
